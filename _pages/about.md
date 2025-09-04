@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm a PhD student at [Purdue Digital Twin Lab](https://purduedigitaltwin.github.io/), supervised by Prof. [Ziran Wang](https://ziranw.github.io/). I received both my Bachelor’s and Master’s degrees in Electrical and Computer Engineering from Seoul National University in Korea. <br>
+Hello, I'm a PhD student at [Purdue Digital Twin Lab](https://purduedigitaltwin.github.io/), supervised by Prof. [Ziran Wang](https://ziranw.github.io/). I received both my Bachelor’s and Master’s degrees in Electrical and Computer Engineering from Seoul National University in Korea. <br><br>
 My research focuses on autonomous driving, with particular interest in multi-modal large language models and 3D scene reconstruction. I aim to advance autonomous driving algorithms in more interactive and trustworthy ways.
 
 Publications
