@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm a PhD student at [Purdue Digital Twin Lab](https://purduedigitaltwin.github.io/), supervised by Prof. [Ziran Wang](https://ziranw.github.io/). I received both my Bachelor’s and Master’s degrees in Electrical and Computer Engineering from Seoul National University in Korea. <br><br>
-My research focuses on autonomous driving, with particular interest in multi-modal large language models and 3D scene reconstruction. I aim to advance autonomous driving algorithms in more interactive and trustworthy ways.
+Hello, I'm a PhD student at [Purdue Digital Twin Lab](https://purduedigitaltwin.github.io/), supervised by Prof. [Ziran Wang](https://ziranw.github.io/). I received both my Bachelor’s and Master’s degrees in Civil Engineering from Seoul National University in Korea. <br><br>
+My research focuses on autonomous driving, with particular interest in multi-modal large language models and 3D scene reconstruction. I aim to advance autonomous driving algorithms in more interactive and trustworthy ways. <br><br>
 
 Publications
 ======
@@ -19,7 +19,8 @@ Publications
 
 - [**VLAAD: Vision and Language Assistant for Autonomous Driving**](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Park_VLAAD_Vision_and_Language_Assistant_for_Autonomous_Driving_WACVW_2024_paper.pdf)<br>
 **SungYeon Park**, MinJae Lee, JiHyuk Kang, Hahyeon Choi, Yoonah Park, Juhwan Cho, Adam Lee, and DongKyu Kim<br>
-*The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024*<br>
+*The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024*<br><br>
+
 
 
 Workshops
