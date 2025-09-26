@@ -2,22 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: profile.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -28,4 +25,4 @@ latest_posts:
 ---
 
 Hello, I'm a PhD student at [Purdue Digital Twin Lab](https://purduedigitaltwin.github.io/), supervised by Prof. [Ziran Wang](https://ziranw.github.io/). I received both my Bachelor’s and Master’s degrees in Civil Engineering from Seoul National University in Korea. <br><br>
-My research focuses on 3D scene understanding and language-conditioned world models, with particular interest in Gaussian splatting, multi-view reasoning, and language-guided 3D scene reconstruction. I aim to advance autonomous driving through multi-modal embeddings and digital twin simulation, making perception and planning more interactive, explainable, and trustworthy.
+My research focuses on 3D scene understanding and language-conditioned world models, with particular interest in Gaussian splatting and multi-modal LLMs. I aim to advance autonomous driving through making perception and planning more interactive, explainable, and trustworthy.

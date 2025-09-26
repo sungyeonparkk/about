@@ -34,8 +34,26 @@ body.sticky-bottom-footer {
 // Profile
 .profile {
   img {
-    width: 100%;
+    width: 200px;
   }
+}
+
+/* Social icons under profile */
+.profile .social-icons {
+  margin-top: 10px;
+  justify-content: center;   /* center horizontally */
+}
+
+.profile .social-icons a {
+  margin: 0 5px;
+  font-size: 1.8rem;  /* Adjust icon size */
+  color: var(--global-text-color);
+  transition: color 0.3s ease;
+  text-decoration: none;     /* remove underline */
+}
+
+.profile .social-icons a:hover {
+  color: var(--global-theme-color); /* Highlight color on hover */
 }
 
 // TODO: redefine content layout.
