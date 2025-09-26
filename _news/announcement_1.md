@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-07-22
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🎉 [NuPlanQA](https://arxiv.org/abs/2503.12772) is accepted to ICCV 2025!
