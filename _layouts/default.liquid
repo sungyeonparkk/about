@@ -2,6 +2,8 @@
 <html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
+    <!-- Debug baseurl -->
+    <meta name="baseurl" content="{{ site.baseurl }}">
     {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
