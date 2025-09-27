@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sungyeonparkk.github.io/sypark.github.io/sitemap.xml
+Sitemap: https://sungyeonparkk.github.io/about/sitemap.xml
