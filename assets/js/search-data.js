@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "You can download my CV on the right.",
+          description: "You can download my CV here.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/about/cv/";
@@ -384,8 +384,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/about/books/the_godfather/";
-            },},{id: "news-nuplanqa-is-accepted-to-iccv-2025",
+            },},{id: "news-joined-purdue-digital-twin-lab-as-phd-student",
+          title: 'Joined Purdue Digital Twin Lab as PhD student',
+          description: "",
+          section: "News",},{id: "news-nuplanqa-is-accepted-to-iccv-2025",
           title: '🎉 NuPlanQA is accepted to ICCV 2025!',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-our-latest-work-simsplat",
+          title: '🚀 Excited to share our latest work: SIMSplat',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
