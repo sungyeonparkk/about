@@ -16,4 +16,4 @@ INSTALL.md
 _pages/about.md
 _pages/cv.md
 _sass/_layout.scss
-_news/**
+_news/*
