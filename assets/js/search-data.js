@@ -384,7 +384,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/about/books/the_godfather/";
-            },},{id: "news-joined-purdue-digital-twin-lab-as-phd-student",
+            },},{id: "news-invited-to-global-llama-community-summit-at-meta-s-headquarters-in-menlo-park",
+          title: '🦙 Invited to Global Llama Community Summit at Meta’s headquarters in Menlo Park...',
+          description: "",
+          section: "News",},{id: "news-joined-purdue-digital-twin-lab-as-phd-student",
           title: 'Joined Purdue Digital Twin Lab as PhD student',
           description: "",
           section: "News",},{id: "news-nuplanqa-is-accepted-to-iccv-2025",
